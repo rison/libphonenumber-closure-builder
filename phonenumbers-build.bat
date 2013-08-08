@@ -1,0 +1,2 @@
+closure-library\closure\bin\calcdeps.py -i phonenumbers\phonemetadata.pb.js -i phonenumbers\phonenumber.pb.js -i phonenumbers\metadata.js -i phonenumbers\phonenumberutil.js -i phonenumbers\asyoutypeformatter.js -p closure-library -o compiled -c closure-compiler/compiler.jar > phonenumbers-compiled.js
+  
